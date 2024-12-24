@@ -27,8 +27,8 @@
 # print("Hello ", name + surName)
 
 
-
-# celsus = 7
+#
+# celsus = input("Enter celsius degrees: ")
 # fahrenheit = 9/5 * celsus + 32
 # print(fahrenheit)
 
@@ -38,15 +38,28 @@
 # print(area)
 # radius1 = area
 
-num1 = 10
-num2 = 8
-print(num1 + num2)
-print(num1 - num2)
-print(num1 * num2)
-print(num1 / num2)
-print(num1 // num2)
-print(num1 % num2)
-print(num1 ** num2)
+num1 = float(input("Enter"))
+num2 = float(input("Enter"))
+print(int(num1 + num2))
+print(float(num1 + num2))
+print(int(num1 - num2))
+print(float(num1 - num2))
+print(int(num1 * num2))
+print(float(num1 * num2))
+print(int(num1 / num2))
+print(float(num1 / num2))
+print(int(num1 // num2))
+print(float(num1 // num2))
+print(int(num1 ** num2))
+print(float(num1 ** num2))
+
+
+# a = 10.6
+# print(a)
+# b = int(a)
+# print(b)
+
+
 
 
 
