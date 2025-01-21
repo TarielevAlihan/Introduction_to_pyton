@@ -38,21 +38,21 @@
 # print(area)
 # radius1 = area
 
-num1 = float(input("Enter"))
-num2 = float(input("Enter"))
-print(int(num1 + num2))
-print(float(num1 + num2))
-print(int(num1 - num2))
-print(float(num1 - num2))
-print(int(num1 * num2))
-print(float(num1 * num2))
-print(int(num1 / num2))
-print(float(num1 / num2))
-print(int(num1 // num2))
-print(float(num1 // num2))
-print(int(num1 ** num2))
-print(float(num1 ** num2))
-
+# num1 = float(input("Enter"))
+# num2 = float(input("Enter"))
+# print(int(num1 + num2))
+# print(float(num1 + num2))
+# print(int(num1 - num2))
+# print(float(num1 - num2))
+# print(int(num1 * num2))
+# print(float(num1 * num2))
+# print(int(num1 / num2))
+# print(float(num1 / num2))
+# print(int(num1 // num2))
+# print(float(num1 // num2))
+# print(int(num1 ** num2))
+# print(float(num1 ** num2))
+#
 
 # a = 10.6
 # print(a)
